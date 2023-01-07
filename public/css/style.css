@@ -1,0 +1,15 @@
+.gambar {
+  width: 100px;
+}
+.gambar2 {
+  width: 150px;
+}
+
+p.ex1 {
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
